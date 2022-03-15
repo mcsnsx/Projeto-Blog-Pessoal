@@ -9,6 +9,9 @@ import { TokenState } from '../../store/tokens/tokensReducer';
 import {Link} from 'react-router-dom';
 import { toast } from 'react-toastify';
 
+/*teste@email.com senha: teste123
+  maria@email.com senha maria123*/
+
 function Home() {
 
     let history = useHistory();

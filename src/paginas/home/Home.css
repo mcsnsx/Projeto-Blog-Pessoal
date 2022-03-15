@@ -1,5 +1,5 @@
 .caixa{
-    background-color: #3F51B5;
+    background-color: #6FC9D2;
 }
 
 .titulo{
@@ -9,7 +9,7 @@
 
 .botao{
     border-color: white !important;
-    background-color: #3F51B5;
+    background-color: #D9792D;
     color: white !important;
 }
 
@@ -20,3 +20,13 @@
 .text-decorator-none{
     text-decoration: none;
 }
+
+/* 
+58C3D3 - azul
+D8EEEC - quase branco
+EDB13F - laranja
+D9792D - laranja mais escuro
+6FC9D2 - azul mais claro
+FAD1E3 - rosa
+
+*/

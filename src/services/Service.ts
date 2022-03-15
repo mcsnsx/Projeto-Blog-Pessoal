@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export const api = axios.create({
-    baseURL: 'https://bloggeneration.herokuapp.com'
+    baseURL: 'https://mcsnsx.herokuapp.com'
     //https://bloggeneration.herokuapp.com
     //https://mcsnsx.herokuapp.com
 })
