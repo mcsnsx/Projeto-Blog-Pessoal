@@ -1,3 +1,14 @@
 .text-decorator-none{
     text-decoration: none;
 }
+
+.botaoAtt{
+    font-weight: bold !important;
+    color: white !important;
+    border-color: white !important;
+    background-color: #ebb95c !important;
+}
+
+.botaoDel{
+    color: black;
+}
