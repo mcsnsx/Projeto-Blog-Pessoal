@@ -7,6 +7,9 @@
     text-decoration: none;
 }
 
-.fundo{
-    color: #6FC9D2;
+.corNav{
+    background-color: #6FC9D2 !important;
+    box-shadow: 0 0 10px black !important;
 }
+
+

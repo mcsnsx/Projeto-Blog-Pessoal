@@ -1,3 +1,8 @@
 .titulo{
     font-weight: bold;
  }
+
+.bgPost{
+    background-color: #6FC9D2 !important;
+    box-shadow: none !important;
+}
