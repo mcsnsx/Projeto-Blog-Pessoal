@@ -1,3 +1,10 @@
 .topo{
     margin-top: 20px;
 }
+
+.botaoFinalizar{
+    font-weight: bold !important;
+    color: white !important;
+    border-color: white !important;
+    background-color: #fa98c3!important;
+}
