@@ -5,6 +5,14 @@
 .titulo{
     color: white !important; 
     font-weight: bold !important;
+    margin: 0 !important;
+    padding: 10px;
+}
+
+.subtitulo{
+    color: #e9d7b5 !important; 
+    font-weight: bold !important;
+    padding: 20px;
 }
 
 .botao{
