@@ -52,7 +52,7 @@ function ListaPostagem() {
       {
         posts.map(post => (
           <Box m={2} >
-            <Card variant="outlined">
+            <Card variant="outlined" className="card">
               <CardContent>
                 <Typography color="textSecondary" gutterBottom>
                   Postagens
@@ -79,7 +79,7 @@ function ListaPostagem() {
                   </Link>
                   <Link to={`/deletarPostagem/${post.id}`} className="text-decorator-none">
                     <Box mx={1}>
-                      <Button variant="contained" size='small' >
+                      <Button variant="contained" size='small' className="botaoDel">
                         deletar
                       </Button>
                     </Box>
