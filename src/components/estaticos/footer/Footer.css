@@ -5,14 +5,25 @@
 
 .box2{
     background-color: #6FC9D2;
-    height: 60px;
-}
-
-.redes{
-    font-size: 60px !important;
-    color: white;
+    height: 40px;
 }
 
 .textos{
     color: white;
 }
+
+.link{
+    text-decoration: none !important;
+}
+
+.lin{
+    font-size: 40px !important;
+    color: white;
+}
+
+.git{
+    font-size: 32px !important;
+    color: white;
+}
+
+
