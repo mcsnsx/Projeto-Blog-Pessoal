@@ -17,7 +17,6 @@
 
 .botao{
     border-color: white !important;
-    background-color: #D9792D;
     color: white !important;
 }
 
@@ -27,6 +26,10 @@
 
 .text-decorator-none{
     text-decoration: none;
+}
+
+.imgInicio{
+    margin: 0px !important;
 }
 
 /* 

@@ -35,14 +35,14 @@ function Navbar() {
 
     if (token != "") {
         navbarComponent = <AppBar position="static" className="corNav">
-            <Toolbar variant="dense">
+            <Toolbar variant="dense" className='ordemNav'>
                 <Box className='cursor'>
                     <Typography variant="h5" color="inherit">
                         BlogPessoal
                     </Typography>
                 </Box>
 
-                <Box display="flex" justifyContent="start">
+                <Box display="flex" justifyContent="center" >
                     <Link to="/home" className="text-decorator-none">
                         <Box mx={1} className='cursor'>
                             <Typography variant="h6" color="inherit">
