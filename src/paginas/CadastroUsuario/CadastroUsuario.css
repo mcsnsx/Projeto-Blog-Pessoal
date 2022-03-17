@@ -11,7 +11,19 @@
     font-weight: bold !important;
 }
 
+.botaoCadastrar{
+    font-weight: bold !important;
+    color: white !important;
+    border-color: white !important;
+    background-color: #fa98c3!important;
+}
+
 .btnCancelar{
     margin-right: 20px !important;
+    font-weight: bold !important;
+    color: white !important;
+    border-color: white !important;
+    background-color: #f8ddab !important;
 
 }
+
