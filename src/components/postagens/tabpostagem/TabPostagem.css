@@ -1,8 +1,33 @@
-.titulo{
-    font-weight: bold;
+.tituloSobre{
+    font-weight: bold !important;
+    color: #FAD1E3 !important;
  }
 
 .bgPost{
     background-color: #6FC9D2 !important;
     box-shadow: none !important;
+}
+
+.sobreNos{
+    background-color: white;
+}
+
+.subtituloSobre{
+    color: #e9d7b5 !important; 
+    font-weight: bold !important;
+    padding: 20px;
+}
+
+.nos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img{
+    display: flex;
+    justify-content: center !important;
+    text-align: center !important;
+    align-items: center;
+    margin: auto;
 }
