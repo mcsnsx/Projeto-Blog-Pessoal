@@ -1,5 +1,5 @@
 <div align = "center">
-<h3><b>## Projeto Blog Pessoal</b></h3></div>
+<h3><b># Projeto Blog Pessoal</b></h3></div>
 
     ### Objetivo desse espaço:
 
