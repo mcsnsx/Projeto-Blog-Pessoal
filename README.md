@@ -4,7 +4,7 @@
     ### Objetivo desse espaço:
 
 * Armazenar o código do Blog Pessoal;
-* Suporte para eventuais atualizações;
+* Linguagem: Java e TypeScrtipt;
 * Ferramenta: Eclipse (IDE) e React Js;
 
 <hr>
